@@ -1,0 +1,26 @@
+niches:
+  baby-safety:
+    seeds:
+      - childproof lock
+      - toddler safety lock
+      - baby kitchen safety
+      - baby door safety
+      - baby window safety
+      - baby bath safety
+      - anti tip baby safety
+      - toddler travel safety
+      - baby furniture safety
+      - childproof appliance
+      - toddler finger guard
+      - baby safety wearable
+sources:
+  tiktok_shop:
+    domains: [shop.tiktok.com]
+  amazon:
+    domains: [amazon.com, amazon.co.uk]
+  alibaba:
+    domains: [alibaba.com]
+  made_in_china:
+    domains: [made-in-china.com]
+  algeria_market:
+    domains: [ouedkniss.com, jumia.dz]
